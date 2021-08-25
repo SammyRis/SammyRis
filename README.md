@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SammyRis
+- 👀 I’m interested in Vr development/software optimization
+- 🌱 I’m currently learning computer engineering at U of S
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me samuel@risling.ca
